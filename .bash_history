@@ -1,0 +1,2 @@
+hostnamectl hostname git
+exit
